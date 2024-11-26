@@ -1,0 +1,5 @@
+print("Olá, mundo")
+print("Meu nome é Sabrina")
+print("Tenho 20 anos")
+print("Estudo arquitetura")
+print("Desenhar é minha terapia")
